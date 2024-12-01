@@ -1,0 +1,7 @@
+opencv_python==4.8.1.78
+pypdf==5.0.0
+pytesseract==0.3.10
+tabula_py==2.9.3
+pymupdf==1.23.20
+pandas==2.0.3
+pdfplumber==0.10.3
